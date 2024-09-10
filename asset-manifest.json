@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Yashbhardwaj5679/QR-Scan.git/static/css/main.5fc90ae2.css",
+    "main.js": "/Yashbhardwaj5679/QR-Scan.git/static/js/main.2faf06a7.js",
+    "static/js/453.2018e620.chunk.js": "/Yashbhardwaj5679/QR-Scan.git/static/js/453.2018e620.chunk.js",
+    "index.html": "/Yashbhardwaj5679/QR-Scan.git/index.html",
+    "main.5fc90ae2.css.map": "/Yashbhardwaj5679/QR-Scan.git/static/css/main.5fc90ae2.css.map",
+    "main.2faf06a7.js.map": "/Yashbhardwaj5679/QR-Scan.git/static/js/main.2faf06a7.js.map",
+    "453.2018e620.chunk.js.map": "/Yashbhardwaj5679/QR-Scan.git/static/js/453.2018e620.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5fc90ae2.css",
+    "static/js/main.2faf06a7.js"
+  ]
+}
